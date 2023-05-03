@@ -38,7 +38,7 @@ header{
  
 }
 .sidenav{
-    width: 20%;
+    width: 15%;
     display: flex;
     flex-direction: column;
 }
@@ -48,9 +48,24 @@ header{
 }
 .sidenav-dashboard{
     display: flex;
+    /* gap: 10%; */
+    justify-content: space-around;
+    padding-left: 10%;
+    line-height: 30px;
+}
+.sidenav-dashboard-pic{
+ width: 50%;
+}
+.sidenav-dashboard img{
+ width:15%;
 }
 .sidenav-users{
     display: flex;
+  
+    /* gap: 10%; */
+    justify-content: space-around;
+    padding-left: 10%;
+    line-height: 30px;
 }
 .sidenav-guarantors{
     display: flex;
