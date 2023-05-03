@@ -55,3 +55,21 @@ header{
 .sidenav-guarantors{
     display: flex;
 }
+.sidenav-loan{
+    display: flex;
+}
+.sidenav-decision-model{
+    display: flex;
+}
+.sidenav-savings{
+    display: flex;
+}
+.sidenav-loan-request{
+    display: flex;
+}
+.sidenav-whitelist{
+    display: flex;
+}
+.sidenav-karma{
+    display: flex;
+}
