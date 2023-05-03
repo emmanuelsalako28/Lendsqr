@@ -91,6 +91,9 @@ body {
   padding-bottom: 3%;
 }
 
+button a{
+  text-decoration: none;
+}
 #place {
   padding-left: 5%;
   padding-top: 2%;
